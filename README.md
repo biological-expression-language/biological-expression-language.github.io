@@ -1,3 +1,5 @@
+<img src="/img/bel300.png" alt="BEL Logo" style="margin: auto; display: block;" />
+
 The Biological Expression Language (BEL) facilitates representing scientific findings in
 the life sciences in a computable form. It captures causal, correlative, and associative
 relationships between biological entities along with the experimental/biological context in which
