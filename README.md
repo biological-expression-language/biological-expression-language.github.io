@@ -12,8 +12,8 @@ or as a pull request to the repository.
 
 ## Specification and Tutorial
 
-The current version (2.0+) specification and tutorial is available at https://cthoyt.gitbook.io/bel/.
-Previous versions can be found on this abandoned Selventa GitHub [repository](https://github.com/OpenBEL/language).
+The current version (2.0+) specification and tutorial is available [here](https://cthoyt.gitbook.io/bel/).
+Previous versions can be found on Selventa's GitHub [repository](https://github.com/OpenBEL/language).
 
 The <a href="https://bel.bio/">BEL.bio</a> project hosts additional programatically generated
 [language documentation](https://language.bel.bio) as well as sporadically updated structured
