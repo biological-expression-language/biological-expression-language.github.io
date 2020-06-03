@@ -1,0 +1,11 @@
+title: Biological Expression Language
+description: >
+  Encoding biomedical knowledge in a computable form
+
+google_analytics: UA-166029785-2
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
