@@ -4,9 +4,6 @@ relationships between biological entities along with the experimental/biological
 they were observed as well as the provenance of the publication from which the relation was
 reported.
 
-BEL was created by Dexter Pratt while at Selventa, but has since become an entirely-community driven
-project. A more detailed history can be found in this [blog post](https://cthoyt.com/2020/04/28/history-of-bel.html).
-
 The this website is a community-driven portal whose purpose
 is to provide information for new users who want to learn BEL and link to the surrounding
 ecosystem of software tools. This page is generated from [GitHub](https://github.com/biological-expression-language/biological-expression-language.github.io/blob/master/README.md)
@@ -23,7 +20,7 @@ The <a href="https://bel.bio/">BEL.bio</a> project hosts additional programatica
 [EBNF specifications](https://github.com/belbio/bel_specifications/tree/master/specifications) of
 each version of BEL.
 
-## Language Evolution
+## Language Evolution and History
 
 Changes and improvements are submitted as BEL Enhancement Proposals (BEPs) then
 reviewed by the [BEL Language Committee](https://github.com/belbio/bep/blob/master/CommitteeGuidelines.md).
@@ -38,6 +35,9 @@ to submit a BEP can be found [here](https://github.com/belbio/bep).
   was published in June 2014.
 - [BEL v1.0](https://github.com/OpenBEL/language/raw/master/docs/version_1.0/bel_specification_version_1.0.pdf)
   was published in July 2012.
+
+BEL was created by Dexter Pratt while at Selventa, but has since become an entirely-community driven
+project. A more detailed history can be found in this [blog post](https://cthoyt.com/2020/04/28/history-of-bel.html).
 
 ## Community
 
@@ -68,8 +68,7 @@ issue tracker. Items will be removed from this list if they are no longer mainta
 While BEL was created by Dexter Pratt at Selventa in the early 2000's, the most recent reference
 publication for the language itself is:
 
-[**Recent advances in
-   modeling languages for pathway maps and computable biological networks**](https://doi.org/10.1016/j.drudis.2013.12.011).
+[**Recent advances in modeling languages for pathway maps and computable biological networks**](https://doi.org/10.1016/j.drudis.2013.12.011).
 <br /> Slater, T. (2014).
 <br /> <i>Drug Discovery Today</i>, <b>19</b>(2), 193–198.
 
