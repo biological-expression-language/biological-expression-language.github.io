@@ -1,0 +1,54 @@
+site_name: Biological Expression Language
+site_description: Encoding biomedical knowledge in a computable form
+site_url: 'https://biological-expression-language.github.io/'
+
+site_dir: docs
+docs_dir: source
+
+# Repository
+repo_name: 'BEL'
+repo_url: 'https://github.com/biological-expression-language/biological-expression-language.github.io'
+
+google_analytics: ['UA-166029785-2', 'https://biological-expression-language.github.io']
+
+nav:
+  - Home: index.md
+  - Tutorial:
+    - Overview: tutorial.md
+    - Identifiers: identifiers.md
+    - Entities:
+        - Overview: entities/index.md
+        - Physical Entities: entities/physical.md
+        - Process Entities: entities/process.md
+        - Reified Entities: entities/reified.md
+    - Relations:
+        - Overview: relations/index.md
+        - Causal: relations/causal.md
+        - Correlative: relations/correlative.md
+        - Associative: relations/associative.md
+        - Genomic: relations/genomic.md
+        - Ontological: relations/ontological.md
+        - Deprecated: relations/deprecated.md
+    - Statements: statements.md
+    - Annotations: annotations.md
+    - Cookbook: cookbook.md
+  - Changelog: changelog/index.md
+
+# Configuration
+theme:
+  language: 'en'
+  name: 'material'
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+  features:
+    - instant
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
