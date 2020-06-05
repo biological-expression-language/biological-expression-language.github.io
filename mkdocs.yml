@@ -14,7 +14,7 @@ google_analytics: ['UA-166029785-2', 'https://biological-expression-language.git
 nav:
   - Home: index.md
   - Tutorial:
-    - Overview: tutorial.md
+    - Tutorial: tutorial.md
     - Identifiers: identifiers.md
     - Entities:
         - Overview: entities/index.md
